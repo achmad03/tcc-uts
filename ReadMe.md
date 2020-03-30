@@ -13,7 +13,7 @@
     ![GitHub Logo](/images/4.png)
     * Melihat directory yang telah dipull sebelumnya &nbsp;
     ![GitHub Logo](/images/5.png)
-    * Melakukan pengujian pada localhost &nbsp;
+    * Melakukan pengujian pada localhost &nbsp; &nbsp;
     ![GitHub Logo](/images/6.png)
 1. Cara Buat DockerFile
 1. Cara Push
