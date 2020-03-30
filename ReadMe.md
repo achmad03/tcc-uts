@@ -37,3 +37,16 @@
     * Uji coba melalui localhost melalui CMD   
     ![GitHub Logo](/images/16.png)
 1. Cara Push
+    * Melakukan login dengan username docker     
+    ![GitHub Logo](/images/17.png)
+    * Melakukan pengecekan docker images yang ada di computer local     
+    ![GitHub Logo](/images/18.png)
+    * Melakukan commit untuk image baru dengan referensi image lama yang telah dibuat(sesuaikan dengan repo dan akun yang dibuat) 
+    ![GitHub Logo](/images/19.png)
+    * Lakukan push pada docker hub   
+    ![GitHub Logo](/images/20.png)
+    * Membuat dan mengisi file index.html   
+    ![GitHub Logo](/images/21.png)
+    * Melakukan pengecekan pada docker hub            
+    ![GitHub Logo](/images/22.png)            
+    ![GitHub Logo](/images/23.png)
