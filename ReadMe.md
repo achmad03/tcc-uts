@@ -1,8 +1,8 @@
 # UTS Teknologi Cloud Computing <h1>
-1. Docker Repository
+# 1. Docker Repository <h3>
     * Click to Redirect
     [Docker Repo](https://hub.docker.com/r/achjr/tcc-uts)
-1. Cara Pull
+# 1. Cara Pull <h3>
     * Melakukan pull nginx image dari repository docker hub     
     ![GitHub Logo](/images/1.png)
     * Melakukan pengecekan pada images yang ada pada computer local     
@@ -15,7 +15,7 @@
     ![GitHub Logo](/images/5.png)
     * Melakukan pengujian pada localhost            
     ![GitHub Logo](/images/6.png)
-1. Cara Buat DockerFile
+# 1. Cara Buat DockerFile <h3>
     * Melakukan pengecekan pada versi docker     
     ![GitHub Logo](/images/7.png)
     * Membuat folder baru untuk project dan masuk ke folder tersebut     
@@ -36,7 +36,7 @@
     ![GitHub Logo](/images/15.png)
     * Uji coba melalui localhost melalui CMD   
     ![GitHub Logo](/images/16.png)
-1. Cara Push
+# 1. Cara Push <h3>
     * Melakukan login dengan username docker     
     ![GitHub Logo](/images/17.png)
     * Melakukan pengecekan docker images yang ada di computer local     
