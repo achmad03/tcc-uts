@@ -1,10 +1,10 @@
-# UTS Teknologi Cloud Computing <h1>
+# UTS Teknologi Cloud Computing <h1> tag
 >Nama   : Achmad Syarif Abdullah                
 >NIM    : 175610099
-# Docker Repository <h3>
+### Docker Repository <h3> tag
     * Click to Redirect
     [Docker Repo](https://hub.docker.com/r/achjr/tcc-uts)
-# Cara Pull <h3>
+### Cara Pull <h3>
     * Melakukan pull nginx image dari repository docker hub     
     ![GitHub Logo](/images/1.png)
     * Melakukan pengecekan pada images yang ada pada computer local     
@@ -17,7 +17,7 @@
     ![GitHub Logo](/images/5.png)
     * Melakukan pengujian pada localhost            
     ![GitHub Logo](/images/6.png)
-# Cara Buat DockerFile <h3>
+### Cara Buat DockerFile <h3>
     * Melakukan pengecekan pada versi docker     
     ![GitHub Logo](/images/7.png)
     * Membuat folder baru untuk project dan masuk ke folder tersebut     
@@ -38,7 +38,7 @@
     ![GitHub Logo](/images/15.png)
     * Uji coba melalui localhost melalui CMD   
     ![GitHub Logo](/images/16.png)
-# Cara Push <h3>
+### Cara Push <h3>
     * Melakukan login dengan username docker     
     ![GitHub Logo](/images/17.png)
     * Melakukan pengecekan docker images yang ada di computer local     
