@@ -5,6 +5,15 @@
 1. Cara Pull
     * Melakukan pull nginx image dari repository docker hub
     ![GitHub Logo](/images/1.png)
-      Format: ![Alt Text](url)
+    * Melakukan pengecekan pada images yang ada pada computer local
+    ![GitHub Logo](/images/2.png)
+    * Melakukan running pada nginx
+    ![GitHub Logo](/images/3.png)
+    * Melihat images yang sedang running di local
+    ![GitHub Logo](/images/4.png)
+    * Melihat directory yang telah dipull sebelumnya
+    ![GitHub Logo](/images/5.png)
+    * Melakukan pengujian pada localhost
+    ![GitHub Logo](/images/6.png)
 1. Cara Buat DockerFile
 1. Cara Push
