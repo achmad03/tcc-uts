@@ -16,4 +16,24 @@
     * Melakukan pengujian pada localhost            
     ![GitHub Logo](/images/6.png)
 1. Cara Buat DockerFile
+    * Melakukan pengecekan pada versi docker     
+    ![GitHub Logo](/images/7.png)
+    * Membuat folder baru untuk project dan masuk ke folder tersebut     
+    ![GitHub Logo](/images/8.png)
+    * Membuat file dengan nama Dockerfile  
+    ![GitHub Logo](/images/9.png)
+    * Membuat folder html dan masuk ke folder tersebut   
+    ![GitHub Logo](/images/10.png)
+    * Membuat dan mengisi file index.html   
+    ![GitHub Logo](/images/11.png)
+    * Melakukan build image            
+    ![GitHub Logo](/images/12.png)
+    * Melakukan pengecekan pada image yang telah dibuat    
+    ![GitHub Logo](/images/13.png)
+    * Menjalankan image yang telah dibuat     
+    ![GitHub Logo](/images/14.png)
+    * Melihat container yang telah dibuat  
+    ![GitHub Logo](/images/15.png)
+    * Uji coba melalui localhost melalui CMD   
+    ![GitHub Logo](/images/16.png)
 1. Cara Push
