@@ -50,3 +50,8 @@
     * Melakukan pengecekan pada docker hub            
     ![GitHub Logo](/images/22.png)            
     ![GitHub Logo](/images/23.png)
+
+    As Kanye West said:
+
+> We're living the future so
+> the present is our past.
